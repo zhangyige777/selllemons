@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import Script from 'next/script'
 import { siteConfig } from '@/lib/config'
 import { generateVideoGameSchema, generateWebSiteSchema } from '@/lib/seo'
 import { JsonLd } from '@/components/seo/JsonLd'
@@ -41,6 +42,13 @@ export default function RootLayout({
       <head>
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
         <meta name="theme-color" content={siteConfig.themeColor} />
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-YV2HRZ0HB0" strategy="afterInteractive" />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-YV2HRZ0HB0');`}
+        </Script>
       </head>
       <body className="min-h-screen flex flex-col bg-gray-50 font-sans antialiased">
         <Header />
