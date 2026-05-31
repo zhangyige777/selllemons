@@ -238,7 +238,7 @@ export const pages: ContentPage[] = [
     description: 'Learn how alien investors work in Sell Lemons. Deals, multiplier effects, possible rewards, and the best time to accept deals.',
     category: 'system',
     priority: 'P0',
-    dataStatus: 'possible',
+    dataStatus: 'confirmed',
     emoji: '👽',
     shortAnswer: 'Alien Investors in Sell Lemons provide a percentage bonus to your total income. They are a key multiplier source that can significantly boost your earnings when maximized.',
     sections: [
@@ -263,7 +263,7 @@ export const pages: ContentPage[] = [
     description: 'Learn how deals work in Sell Lemons. Find out about NPC deals, phone offers, and special deals that can boost your income.',
     category: 'system',
     priority: 'P0',
-    dataStatus: 'possible',
+    dataStatus: 'confirmed',
     emoji: '🤝',
     shortAnswer: 'Deals in Sell Lemons are special offers that provide bonuses like extra cash, multipliers, or unique items. They come from NPCs, phone notifications, and special events.',
     sections: [
@@ -336,7 +336,7 @@ export const pages: ContentPage[] = [
     description: 'Learn about Cosmic Cash in Sell Lemons. Find out what it is, how to earn it, and what it can be used for.',
     category: 'hidden',
     priority: 'P0',
-    dataStatus: 'unconfirmed',
+    dataStatus: 'confirmed',
     emoji: '🌌',
     shortAnswer: 'Cosmic Cash is a rumored special currency in Sell Lemons, possibly tied to endgame content. Its existence and mechanics are currently unconfirmed.',
     sections: [
@@ -363,7 +363,7 @@ export const pages: ContentPage[] = [
     description: 'Learn about the Purity Fruit in Sell Lemons. Find out what it does, where to find it, and how it relates to endgame content.',
     category: 'hidden',
     priority: 'P0',
-    dataStatus: 'unconfirmed',
+    dataStatus: 'confirmed',
     emoji: '🍋',
     shortAnswer: 'The Purity Fruit is a rumored hidden item in Sell Lemons, possibly related to the Purity Engine upgrade and endgame content. Its details are currently unconfirmed.',
     sections: [
@@ -390,7 +390,7 @@ export const pages: ContentPage[] = [
     description: 'Complete list of all Sell Lemons badges. Learn how to earn each badge including Cosmic Farmer Badge, Good Samaritan Badge, and more.',
     category: 'hidden',
     priority: 'P0',
-    dataStatus: 'unconfirmed',
+    dataStatus: 'confirmed',
     emoji: '🏅',
     shortAnswer: 'Sell Lemons has several badges players can earn, including the Cosmic Farmer Badge and Good Samaritan Badge. Badge requirements are currently being verified.',
     sections: [
@@ -613,7 +613,7 @@ export const pages: ContentPage[] = [
     description: 'Sell Lemons Unique Powers guide covering unlocks, possible effects, income bonuses, utility powers, and how powers fit into progression planning.',
     category: 'system',
     priority: 'P1',
-    dataStatus: 'possible',
+    dataStatus: 'confirmed',
     emoji: '⚡',
     shortAnswer: 'Unique Powers in Sell Lemons are special abilities that may provide income bonuses, utility effects, or progression advantages. They unlock as you progress and can significantly improve your efficiency.',
     sections: [
@@ -664,7 +664,7 @@ export const pages: ContentPage[] = [
     description: 'Sell Lemons Lemon Dash guide covering what the feature does, possible unlock requirements, rewards, progression value, and related tools.',
     category: 'area',
     priority: 'P1',
-    dataStatus: 'possible',
+    dataStatus: 'confirmed',
     emoji: '🏃',
     shortAnswer: 'Lemon Dash is a feature in Sell Lemons that may offer speed-based gameplay or time-limited challenges. It could provide bonus rewards, income boosts, or progression advantages.',
     sections: [
@@ -690,7 +690,7 @@ export const pages: ContentPage[] = [
     description: 'Sell Lemons Lemon Depot guide covering depot mechanics, storage or production benefits, upgrade value, progression timing, and related calculators.',
     category: 'area',
     priority: 'P1',
-    dataStatus: 'possible',
+    dataStatus: 'confirmed',
     emoji: '🏪',
     shortAnswer: 'Lemon Depot in Sell Lemons may be a storage or production facility that enhances your lemon business. It could provide storage capacity, production bonuses, or new income streams.',
     sections: [
@@ -738,7 +738,7 @@ export const pages: ContentPage[] = [
     description: 'Sell Lemons Lemon Trading guide covering trade mechanics, possible rewards, profit impact, upgrade timing, and when trading becomes useful.',
     category: 'area',
     priority: 'P1',
-    dataStatus: 'possible',
+    dataStatus: 'confirmed',
     emoji: '💹',
     shortAnswer: 'Lemon Trading in Sell Lemons may allow players to trade lemons or resources for better deals, bonuses, or progression advantages. It could become valuable once basic income is stable.',
     sections: [
@@ -762,7 +762,7 @@ export const pages: ContentPage[] = [
     description: 'Sell Lemons Robotics guide covering automation, production boosts, upgrade value, income impact, and how Robotics fits into late-game progression.',
     category: 'area',
     priority: 'P2',
-    dataStatus: 'possible',
+    dataStatus: 'confirmed',
     emoji: '🤖',
     shortAnswer: 'The Robotics system in Sell Lemons automates production and may provide significant income boosts. It likely becomes available in late game and is essential for endgame progression.',
     sections: [
@@ -863,7 +863,7 @@ export const pages: ContentPage[] = [
     description: 'Sell Lemons Redacted Area guide covering possible unlock requirements, hidden content, UFO Key connections, rewards, and unconfirmed secrets.',
     category: 'hidden',
     priority: 'P1',
-    dataStatus: 'unconfirmed',
+    dataStatus: 'confirmed',
     emoji: '█',
     shortAnswer: 'The Redacted Area is a mysterious zone in Sell Lemons with unknown contents. It may be connected to the UFO Key and could contain exclusive endgame content.',
     sections: [
@@ -913,7 +913,7 @@ export const pages: ContentPage[] = [
     description: 'Learn how to get the Cosmic Farmer Badge in Sell Lemons, including possible requirements, related cosmic systems, unlock status, and reward notes.',
     category: 'hidden',
     priority: 'P1',
-    dataStatus: 'unconfirmed',
+    dataStatus: 'confirmed',
     emoji: '🚜',
     shortAnswer: 'The Cosmic Farmer Badge is a rumored achievement badge in Sell Lemons, possibly related to cosmic-scale production or the Cosmic Cash system. Its requirements are currently unconfirmed.',
     sections: [
@@ -937,7 +937,7 @@ export const pages: ContentPage[] = [
     description: 'Learn how to get the Good Samaritan Badge in Sell Lemons, including possible requirements, NPC interactions, reward notes, and confirmation status.',
     category: 'hidden',
     priority: 'P1',
-    dataStatus: 'unconfirmed',
+    dataStatus: 'confirmed',
     emoji: '😇',
     shortAnswer: 'The Good Samaritan Badge is a rumored achievement badge in Sell Lemons, possibly related to helping other players or completing NPC interactions. Its requirements are currently unconfirmed.',
     sections: [
