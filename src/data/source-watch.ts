@@ -7,13 +7,13 @@ export const sourceWatch = [
     "url": "https://www.roblox.com/games/79268393072444",
     "trust": "official",
     "use": "Game description, update notes, codes, badges, keys, and gamepasses when visible.",
-    "ok": false,
-    "status": 404,
-    "checkedAt": "2026-05-31T08:47:52.919Z",
-    "responseMs": 1283,
-    "contentLength": 541,
-    "hash": "1e4a02941b88962565e06c03cf433a563256c6753221d57e939745a2d29fa6f5",
-    "changed": false
+    "ok": true,
+    "status": 200,
+    "checkedAt": "2026-06-01T06:01:39.481Z",
+    "responseMs": 656,
+    "contentLength": 33741,
+    "hash": "57d2168b4dc5dbbf5841ce292210730ff698e5311be32098409cb90d81da13ca",
+    "changed": true
   },
   {
     "label": "Google Trends manual lead",
@@ -21,16 +21,15 @@ export const sourceWatch = [
     "trust": "lead",
     "use": "Search demand only; never a source for game facts.",
     "ok": false,
-    "status": 0,
-    "checkedAt": "2026-05-31T08:48:02.263Z",
-    "responseMs": 9343,
-    "contentLength": 0,
-    "hash": "",
-    "changed": true,
-    "error": "fetch failed"
+    "status": 429,
+    "checkedAt": "2026-06-01T06:01:39.555Z",
+    "responseMs": 73,
+    "contentLength": 465,
+    "hash": "1e0b1aaee4c321f7ae0b3b216083295947f578dfed3dca124cdae8e0d3854259",
+    "changed": true
   }
 ] as const
 
 export function getLastSourceCheckDate(): string {
-  return 'May 31, 2026'
+  return 'June 1, 2026'
 }
