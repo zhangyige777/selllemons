@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import Link from 'next/link'
 import { generateSEOMetadata } from '@/lib/seo'
 import Breadcrumbs from '@/components/layout/Breadcrumbs'
 import LastUpdated from '@/components/ui/LastUpdated'
@@ -10,10 +11,10 @@ import { JsonLd } from '@/components/seo/JsonLd'
 import { generateFAQSchema } from '@/lib/seo'
 
 export const metadata: Metadata = generateSEOMetadata({
-  title: 'Sell Lemons Codes (May 2026) - Active Codes',
-  description: 'All Sell Lemons codes for May 2026. Currently no verified codes are available. We monitor updates and list confirmed active codes only after they are verified.',
+  title: 'Sell Lemons Codes June 2026 - Active & Expired Codes',
+  description: 'All Sell Lemons codes for June 2026. We monitor updates and list only confirmed active codes. Also find rebirth calculators, guides, and tools.',
   path: '/codes/',
-  keywords: ['Sell Lemons codes', 'Sell Lemons active codes', 'Sell Lemons code redeem'],
+  keywords: ['Sell Lemons codes', 'Sell Lemons codes June 2026', 'Sell Lemons active codes', 'Sell Lemons code redeem', 'Sell Lemons working codes'],
 })
 
 export default function CodesPage() {
@@ -24,8 +25,8 @@ export default function CodesPage() {
   return (
     <div className="max-w-3xl mx-auto space-y-6">
       <Breadcrumbs items={[{ label: 'Codes' }]} />
-      <h1 className="text-2xl md:text-3xl font-bold text-gray-900">Sell Lemons Codes</h1>
-      <p className="text-gray-600">All Sell Lemons codes in one place. We only list codes that have been verified.</p>
+      <h1 className="text-2xl md:text-3xl font-bold text-gray-900">Sell Lemons Codes — June 2026</h1>
+      <p className="text-gray-600">All Sell Lemons codes in one place. We only list codes that have been verified. While waiting for new codes, boost your earnings with our <Link href="/rebirth-calculator/" className="text-primary-600 hover:underline font-medium">Rebirth Calculator</Link>, <Link href="/upgrade-calculator/" className="text-primary-600 hover:underline font-medium">Upgrade ROI Calculator</Link>, and <Link href="/alien-investors/" className="text-primary-600 hover:underline font-medium">Alien Investors Guide</Link>.</p>
       <div className="bg-primary-50 border border-primary-200 rounded-lg p-3 text-sm text-primary-800 mt-3">
         No verified Sell Lemons codes are available right now. We check updates regularly and will list active codes here only after they are confirmed.
       </div>
@@ -136,6 +137,45 @@ export default function CodesPage() {
           </div>
         </section>
       )}
+
+      {/* Internal Links - Tools & Guides */}
+      <section>
+        <h2 className="text-lg font-semibold text-gray-900 mb-3">Boost Your Earnings — Tools & Guides</h2>
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+          <Link href="/rebirth-calculator/" className="flex items-center gap-2 p-3 rounded-lg border border-gray-200 hover:border-primary-300 hover:bg-primary-50 transition-colors text-sm text-gray-700">
+            <span>🔄</span>
+            <span className="font-medium">Rebirth Calculator</span>
+          </Link>
+          <Link href="/rebirth-multiplier/" className="flex items-center gap-2 p-3 rounded-lg border border-gray-200 hover:border-primary-300 hover:bg-primary-50 transition-colors text-sm text-gray-700">
+            <span>✖️</span>
+            <span className="font-medium">Rebirth Multiplier Guide</span>
+          </Link>
+          <Link href="/when-to-rebirth/" className="flex items-center gap-2 p-3 rounded-lg border border-gray-200 hover:border-primary-300 hover:bg-primary-50 transition-colors text-sm text-gray-700">
+            <span>🔄</span>
+            <span className="font-medium">When to Rebirth Guide</span>
+          </Link>
+          <Link href="/upgrade-calculator/" className="flex items-center gap-2 p-3 rounded-lg border border-gray-200 hover:border-primary-300 hover:bg-primary-50 transition-colors text-sm text-gray-700">
+            <span>📈</span>
+            <span className="font-medium">Upgrade ROI Calculator</span>
+          </Link>
+          <Link href="/alien-investors/" className="flex items-center gap-2 p-3 rounded-lg border border-gray-200 hover:border-primary-300 hover:bg-primary-50 transition-colors text-sm text-gray-700">
+            <span>👽</span>
+            <span className="font-medium">Alien Investors Guide</span>
+          </Link>
+          <Link href="/multiplier-calculator/" className="flex items-center gap-2 p-3 rounded-lg border border-gray-200 hover:border-primary-300 hover:bg-primary-50 transition-colors text-sm text-gray-700">
+            <span>✖️</span>
+            <span className="font-medium">Multiplier Calculator</span>
+          </Link>
+          <Link href="/money-fast/" className="flex items-center gap-2 p-3 rounded-lg border border-gray-200 hover:border-primary-300 hover:bg-primary-50 transition-colors text-sm text-gray-700">
+            <span>⚡</span>
+            <span className="font-medium">How to Make Money Fast</span>
+          </Link>
+          <Link href="/progression-planner/" className="flex items-center gap-2 p-3 rounded-lg border border-gray-200 hover:border-primary-300 hover:bg-primary-50 transition-colors text-sm text-gray-700">
+            <span>🗺️</span>
+            <span className="font-medium">Progression Planner</span>
+          </Link>
+        </div>
+      </section>
 
       {/* FAQ */}
       <section>

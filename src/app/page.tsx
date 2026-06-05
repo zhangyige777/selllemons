@@ -7,10 +7,10 @@ import { Accordion } from '@/components/ui/Accordion'
 import LastUpdated from '@/components/ui/LastUpdated'
 
 export const metadata: Metadata = generateSEOMetadata({
-  title: 'Sell Lemons Calculator & Tools - Rebirth, Offline Income, Upgrade ROI',
-  description: 'Rebirth timing, offline income, upgrade ROI, multiplier stacking, codes, keys, badges, and progression planning - all in one place.',
+  title: 'Sell Lemons Calculator, Codes & Rebirth Guide - All Tools',
+  description: 'Sell Lemons calculator, rebirth guide, codes tracker, offline income, upgrade ROI, multiplier calculator, and progression planner. All Sell Lemons tools in one place.',
   path: '/',
-  keywords: ['Sell Lemons calculator', 'Sell Lemons tools', 'Sell Lemons rebirth', 'Sell Lemons offline income', 'Sell Lemons upgrade'],
+  keywords: ['Sell Lemons calculator', 'Sell Lemons codes', 'Sell Lemons rebirth', 'Sell Lemons tools', 'Sell Lemons offline income', 'Sell Lemons upgrade'],
 })
 
 const primaryCTAs = [
@@ -62,10 +62,10 @@ export default function HomePage() {
       {/* Hero */}
       <section className="text-center py-8 md:py-12">
         <h1 className="text-3xl md:text-4xl font-bold text-gray-900">
-          Sell Lemons <span className="text-primary-500">Calculator & Tools</span>
+          Sell Lemons <span className="text-primary-500">Calculator, Codes & Rebirth Guide</span>
         </h1>
         <p className="mt-3 text-gray-600 max-w-2xl mx-auto">
-          Rebirth timing, offline income, upgrade ROI, multiplier stacking, codes, keys, badges, and progression planning - all in one place.
+          Rebirth calculator, codes tracker, offline income, upgrade ROI, multiplier breakdown, and progression planning — all Sell Lemons tools in one place.
         </p>
 
         {/* Game Status */}

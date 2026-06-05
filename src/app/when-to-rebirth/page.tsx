@@ -8,10 +8,10 @@ import ContentPageTemplate from '@/components/ContentPageTemplate'
 const pageData = getPageBySlug('when-to-rebirth')
 
 export const metadata: Metadata = generateSEOMetadata({
-  title: 'When to Rebirth in Sell Lemons',
-  description: 'Learn when to rebirth in Sell Lemons by comparing break-even time, new multiplier value, rebuild speed, current cash, and long-term income growth.',
+  title: 'How to Rebirth in Sell Lemons - Step-by-Step Guide',
+  description: 'Learn how to rebirth in Sell Lemons. Step-by-step instructions, break-even formula, when to rebirth at every game stage, and common mistakes to avoid.',
   path: '/when-to-rebirth/',
-  keywords: ['Sell Lemons when to rebirth'],
+  keywords: ['how to rebirth in Sell Lemons', 'Sell Lemons rebirth', 'Sell Lemons when to rebirth', 'Sell Lemons rebirth guide', 'Sell Lemons rebirth strategy'],
 })
 
 export default function WhenToRebirthPage() {
