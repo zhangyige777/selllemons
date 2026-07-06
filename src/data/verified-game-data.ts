@@ -8,22 +8,22 @@ export const robloxGame = {
   "description": "Sell Lemons 🍋. Make 💵💰🤑.\n\n🍋 Sell Lemons\n💵 Earn lots of cash\n💪 Unlock unique powers\n👽 Make lucrative deals\n🌌 Enter the %^REDACTED*$!\n\n❓ Did you know... You continue to earn 100% of your income offline! 💰\n\n👍 Like the game and join our community to receive absolutely nothing at all!*\n*Except for the knowledge that you made the developers very happy. :)",
   "creatorName": "BloxByte Games",
   "creatorType": "Group",
-  "playing": 57342,
-  "visits": 303692300,
-  "favoritedCount": 345572,
+  "playing": 48359,
+  "visits": 309941419,
+  "favoritedCount": 350355,
   "maxPlayers": 10,
   "created": "2025-03-17T23:31:17.017Z",
-  "updated": "2026-07-03T20:31:16.0832314Z",
+  "updated": "2026-07-03T20:31:16.083Z",
   "genre": "Simulation",
   "subgenre": "Tycoon",
   "canonicalUrlPath": "/games/79268393072444/Sell-Lemons",
-  "checkedAt": "2026-07-05T04:55:21.559Z"
+  "checkedAt": "2026-07-06T05:08:55.016Z"
 } as const
 
 export const robloxVotes = {
-  "upVotes": 261318,
-  "downVotes": 13148,
-  "checkedAt": "2026-07-05T04:55:21.559Z"
+  "upVotes": 264769,
+  "downVotes": 13422,
+  "checkedAt": "2026-07-06T05:08:55.016Z"
 } as const
 
 export const robloxBadges = [
@@ -34,9 +34,9 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:20:19.576+00:00",
     "updated": "2026-05-13T21:20:19.576+00:00",
-    "awardedCount": 36497505,
-    "pastDayAwardedCount": 441399,
-    "winRatePercentage": 0.263
+    "awardedCount": 36913708,
+    "pastDayAwardedCount": 413304,
+    "winRatePercentage": 0.267
   },
   {
     "id": 798229121420564,
@@ -45,9 +45,9 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:21:02.153+00:00",
     "updated": "2026-05-13T21:21:02.153+00:00",
-    "awardedCount": 33055260,
-    "pastDayAwardedCount": 371866,
-    "winRatePercentage": 0.221
+    "awardedCount": 33410050,
+    "pastDayAwardedCount": 352267,
+    "winRatePercentage": 0.227
   },
   {
     "id": 1670501100924687,
@@ -56,9 +56,9 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:21:18.539+00:00",
     "updated": "2026-05-13T21:21:18.539+00:00",
-    "awardedCount": 25810713,
-    "pastDayAwardedCount": 283687,
-    "winRatePercentage": 0.169
+    "awardedCount": 26080604,
+    "pastDayAwardedCount": 268028,
+    "winRatePercentage": 0.173
   },
   {
     "id": 846427648664068,
@@ -67,9 +67,9 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:21:38.422+00:00",
     "updated": "2026-05-13T21:21:38.422+00:00",
-    "awardedCount": 15635987,
-    "pastDayAwardedCount": 170149,
-    "winRatePercentage": 0.101
+    "awardedCount": 15795438,
+    "pastDayAwardedCount": 158198,
+    "winRatePercentage": 0.102
   },
   {
     "id": 239648239068938,
@@ -78,9 +78,9 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:21:57.039+00:00",
     "updated": "2026-05-13T21:21:57.039+00:00",
-    "awardedCount": 7227718,
-    "pastDayAwardedCount": 97058,
-    "winRatePercentage": 0.058
+    "awardedCount": 7316977,
+    "pastDayAwardedCount": 88534,
+    "winRatePercentage": 0.057
   },
   {
     "id": 4335425379555311,
@@ -89,8 +89,8 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:22:25.757+00:00",
     "updated": "2026-05-13T21:22:25.757+00:00",
-    "awardedCount": 4034026,
-    "pastDayAwardedCount": 65824,
+    "awardedCount": 4095288,
+    "pastDayAwardedCount": 60799,
     "winRatePercentage": 0.039
   },
   {
@@ -100,8 +100,8 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:23:27.607+00:00",
     "updated": "2026-05-13T21:23:27.607+00:00",
-    "awardedCount": 2107263,
-    "pastDayAwardedCount": 47349,
+    "awardedCount": 2151565,
+    "pastDayAwardedCount": 43983,
     "winRatePercentage": 0.028
   },
   {
@@ -111,8 +111,8 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:23:45.522+00:00",
     "updated": "2026-05-13T21:23:45.522+00:00",
-    "awardedCount": 926065,
-    "pastDayAwardedCount": 27897,
+    "awardedCount": 952528,
+    "pastDayAwardedCount": 26303,
     "winRatePercentage": 0.017
   },
   {
@@ -122,9 +122,9 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:24:46.557+00:00",
     "updated": "2026-05-13T21:24:46.557+00:00",
-    "awardedCount": 31237176,
-    "pastDayAwardedCount": 349216,
-    "winRatePercentage": 0.208
+    "awardedCount": 31570813,
+    "pastDayAwardedCount": 331256,
+    "winRatePercentage": 0.214
   },
   {
     "id": 1896495343286922,
@@ -133,9 +133,9 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:25:10.313+00:00",
     "updated": "2026-05-13T21:25:10.313+00:00",
-    "awardedCount": 28200958,
-    "pastDayAwardedCount": 314294,
-    "winRatePercentage": 0.187
+    "awardedCount": 28500812,
+    "pastDayAwardedCount": 297784,
+    "winRatePercentage": 0.192
   },
   {
     "id": 3733621909108985,
@@ -144,9 +144,9 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:25:38.477+00:00",
     "updated": "2026-05-13T21:27:56.828+00:00",
-    "awardedCount": 24232288,
-    "pastDayAwardedCount": 271262,
-    "winRatePercentage": 0.161
+    "awardedCount": 24489721,
+    "pastDayAwardedCount": 255516,
+    "winRatePercentage": 0.165
   },
   {
     "id": 3422658647150754,
@@ -155,9 +155,9 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:35:27.148+00:00",
     "updated": "2026-05-13T21:35:27.148+00:00",
-    "awardedCount": 5326542,
-    "pastDayAwardedCount": 80615,
-    "winRatePercentage": 0.048
+    "awardedCount": 5400021,
+    "pastDayAwardedCount": 72989,
+    "winRatePercentage": 0.047
   },
   {
     "id": 2539875741824246,
@@ -166,8 +166,8 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:35:54.939+00:00",
     "updated": "2026-05-13T21:35:54.939+00:00",
-    "awardedCount": 1526156,
-    "pastDayAwardedCount": 36920,
+    "awardedCount": 1560824,
+    "pastDayAwardedCount": 34422,
     "winRatePercentage": 0.022
   },
   {
@@ -177,8 +177,8 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:36:14.723+00:00",
     "updated": "2026-05-13T21:36:14.723+00:00",
-    "awardedCount": 518430,
-    "pastDayAwardedCount": 18282,
+    "awardedCount": 536040,
+    "pastDayAwardedCount": 17501,
     "winRatePercentage": 0.011
   },
   {
@@ -188,8 +188,8 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:37:44.736+00:00",
     "updated": "2026-05-13T21:37:44.736+00:00",
-    "awardedCount": 204708,
-    "pastDayAwardedCount": 9534,
+    "awardedCount": 214136,
+    "pastDayAwardedCount": 9356,
     "winRatePercentage": 0.006
   },
   {
@@ -199,8 +199,8 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:38:58.774+00:00",
     "updated": "2026-05-13T21:38:58.774+00:00",
-    "awardedCount": 11363,
-    "pastDayAwardedCount": 674,
+    "awardedCount": 12023,
+    "pastDayAwardedCount": 656,
     "winRatePercentage": 0
   },
   {
@@ -210,9 +210,9 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:41:07.025+00:00",
     "updated": "2026-05-13T21:41:07.025+00:00",
-    "awardedCount": 10043969,
-    "pastDayAwardedCount": 101293,
-    "winRatePercentage": 0.06
+    "awardedCount": 10136141,
+    "pastDayAwardedCount": 91493,
+    "winRatePercentage": 0.059
   },
   {
     "id": 1527780026429423,
@@ -221,8 +221,8 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:41:23.56+00:00",
     "updated": "2026-05-13T21:41:23.56+00:00",
-    "awardedCount": 129780,
-    "pastDayAwardedCount": 6013,
+    "awardedCount": 136059,
+    "pastDayAwardedCount": 6245,
     "winRatePercentage": 0.004
   },
   {
@@ -232,9 +232,9 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:40:01.012+00:00",
     "updated": "2026-05-13T21:40:01.012+00:00",
-    "awardedCount": 10589126,
-    "pastDayAwardedCount": 176422,
-    "winRatePercentage": 0.105
+    "awardedCount": 10745892,
+    "pastDayAwardedCount": 155608,
+    "winRatePercentage": 0.1
   },
   {
     "id": 2744375491202297,
@@ -243,8 +243,8 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:40:19.599+00:00",
     "updated": "2026-05-13T21:40:19.599+00:00",
-    "awardedCount": 2258321,
-    "pastDayAwardedCount": 51408,
+    "awardedCount": 2306567,
+    "pastDayAwardedCount": 47888,
     "winRatePercentage": 0.031
   },
   {
@@ -254,8 +254,8 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:40:49.778+00:00",
     "updated": "2026-05-15T21:08:34.8+00:00",
-    "awardedCount": 118022,
-    "pastDayAwardedCount": 6626,
+    "awardedCount": 124665,
+    "pastDayAwardedCount": 6597,
     "winRatePercentage": 0.004
   },
   {
@@ -265,8 +265,8 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:41:41.813+00:00",
     "updated": "2026-05-13T21:41:41.813+00:00",
-    "awardedCount": 2286838,
-    "pastDayAwardedCount": 26955,
+    "awardedCount": 2311803,
+    "pastDayAwardedCount": 24792,
     "winRatePercentage": 0.016
   },
   {
@@ -276,8 +276,8 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:42:03.754+00:00",
     "updated": "2026-05-14T16:01:21.252+00:00",
-    "awardedCount": 1030695,
-    "pastDayAwardedCount": 15900,
+    "awardedCount": 1045250,
+    "pastDayAwardedCount": 14457,
     "winRatePercentage": 0.009
   },
   {
@@ -287,8 +287,8 @@ export const robloxBadges = [
     "enabled": true,
     "created": "2026-05-13T21:52:37.973+00:00",
     "updated": "2026-05-15T21:07:22.34+00:00",
-    "awardedCount": 10800,
-    "pastDayAwardedCount": 678,
+    "awardedCount": 11428,
+    "pastDayAwardedCount": 624,
     "winRatePercentage": 0
   }
 ] as const
@@ -381,5 +381,5 @@ export const contentUnlocks = [
 ] as const
 
 export function getVerifiedGameDataDate(): string {
-  return 'July 5, 2026'
+  return 'July 6, 2026'
 }
