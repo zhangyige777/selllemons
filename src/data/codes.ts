@@ -22,7 +22,7 @@ export function getExpiredCodes(): GameCode[] {
 }
 
 export function getLastCheckedDate(): string {
-  return 'August 12, 2026'
+  return 'August 13, 2026'
 }
 
 export const noCodesMessage =
