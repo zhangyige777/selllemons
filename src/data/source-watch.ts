@@ -9,10 +9,10 @@ export const sourceWatch = [
     "use": "Game description, update notes, codes, badges, keys, and gamepasses when visible.",
     "ok": true,
     "status": 200,
-    "checkedAt": "2026-11-02T07:12:42.751Z",
-    "responseMs": 684,
-    "contentLength": 34929,
-    "hash": "9493b894a455f91861c333a7e0e94ba9bd0300c609f0856081a8b4ee5771c447",
+    "checkedAt": "2026-11-03T07:33:05.016Z",
+    "responseMs": 734,
+    "contentLength": 34879,
+    "hash": "2884f51b419c7cd74af911369773d1b71531933025c62e63cc79f2cefea375e3",
     "changed": true
   },
   {
@@ -22,8 +22,8 @@ export const sourceWatch = [
     "use": "Search demand only; never a source for game facts.",
     "ok": false,
     "status": 429,
-    "checkedAt": "2026-11-02T07:12:42.885Z",
-    "responseMs": 134,
+    "checkedAt": "2026-11-03T07:33:05.263Z",
+    "responseMs": 247,
     "contentLength": 465,
     "hash": "1e0b1aaee4c321f7ae0b3b216083295947f578dfed3dca124cdae8e0d3854259",
     "changed": false
@@ -31,5 +31,5 @@ export const sourceWatch = [
 ] as const
 
 export function getLastSourceCheckDate(): string {
-  return 'November 2, 2026'
+  return 'November 3, 2026'
 }
